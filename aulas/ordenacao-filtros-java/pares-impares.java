@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class Main {
+class ParImpar {
 
   public static void main(String[] args) throws Exception {
 
