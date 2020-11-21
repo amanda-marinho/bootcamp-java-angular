@@ -11,17 +11,21 @@ Foram desenvolvidos e abordados os seguintes tópicos:
 * Desenvolvimento de testes unitários para validação das funcionalidades
 * Implantação do sistema na nuvem através do Heroku
 
-Para executar o projeto no terminal, digite o seguinte comando:
+**Para executar o projeto no terminal, digite o seguinte comando:**
 
 ```shell script
 mvn spring-boot:run 
 ```
 
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+**Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:**
 
 ```
 http://localhost:8080/api/v1/people
 ```
+
+**Deploy realizado no endreço abaixo:**
+
+[https://peopleapi-amanda.herokuapp.com](https://peopleapi-amanda.herokuapp.com)
 
 
 São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
@@ -40,6 +44,6 @@ Links úteis:
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
-[Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto.
+[Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto. E [aqui](https://github.com/rpeleias/personapi_digital_innovation_one/tree/tests_development) o repositório do projeto completo disponibilizado pelo professor.
 
 
